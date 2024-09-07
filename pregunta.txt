@@ -1,0 +1,17 @@
+1) ¿Cual es el punto mas debil de PGP?
+R/ Su password
+
+2) ¿Cuando conviene usar solamente usuario simetrico?
+Cuando se pueda asegurar que los participantes intercambien de manera segura la clave de decifrado (nunca?)
+
+3)¿En que consiste el ciclo de vida del desarrollo de software seguro?
+
+Prácticas de seguridad que sirven para el ciclo de desarrollo de software en todas sus etapas
+ 
+-Planifiación y análisis
+-Diseño
+-Implementación
+-Pruebas
+-Despliegue
+-Mantenimiento y operación
+-Retiro y disposición
